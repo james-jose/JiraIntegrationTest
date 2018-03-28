@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-03-28 20:18:34">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>This update set capture configuration related to the catalog item named "Create Distribution List"</description>
+<inserted/>
+<name>SB-71-RITM-CreateDistributionList</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f8899ea2db8913005868f6fdbf96198f</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>james.jose</sys_created_by>
+<sys_created_on>2018-03-28 20:18:34</sys_created_on>
+<sys_id>c7d85bf6db0113005868f6fdbf9619b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>james.jose</sys_updated_by>
+<sys_updated_on>2018-03-28 20:18:34</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_category_e758dfb6db0113005868f6fdbf96194b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Distribution List1">099793f6db0113005868f6fdbf9619a3</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>james.jose</sys_created_by><sys_created_on>2018-03-28 20:16:25</sys_created_on><sys_id>e758dfb6db0113005868f6fdbf96194b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Create Distribution List1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_category_e758dfb6db0113005868f6fdbf96194b</sys_update_name><sys_updated_by>james.jose</sys_updated_by><sys_updated_on>2018-03-28 20:16:25</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+<payload_hash>-1737017979</payload_hash>
+<remote_update_set display_value="SB-71-RITM-CreateDistributionList">c7d85bf6db0113005868f6fdbf9619b9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>james.jose</sys_created_by>
+<sys_created_on>2018-03-28 20:18:34</sys_created_on>
+<sys_id>87d85bf6db0113005868f6fdbf9619ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1626e4121f70000001</sys_recorded_at>
+<sys_updated_by>james.jose</sys_updated_by>
+<sys_updated_on>2018-03-28 20:18:34</sys_updated_on>
+<table/>
+<target_name>Can We Help You?.Create Distribution List1</target_name>
+<type>Catalog Item Category</type>
+<update_domain>global</update_domain>
+<update_guid>e758dfb6e4011300395c6d93f1d6c04d</update_guid>
+<update_guid_history>e758dfb6e4011300395c6d93f1d6c04d:-1737017979</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_6b58dfb6db0113005868f6fdbf961948</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Distribution List1">099793f6db0113005868f6fdbf9619a3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>james.jose</sys_created_by><sys_created_on>2018-03-28 20:16:24</sys_created_on><sys_id>6b58dfb6db0113005868f6fdbf961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Create Distribution List1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_catalog_6b58dfb6db0113005868f6fdbf961948</sys_update_name><sys_updated_by>james.jose</sys_updated_by><sys_updated_on>2018-03-28 20:16:24</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>1761391445</payload_hash>
+<remote_update_set display_value="SB-71-RITM-CreateDistributionList">c7d85bf6db0113005868f6fdbf9619b9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>james.jose</sys_created_by>
+<sys_created_on>2018-03-28 20:18:34</sys_created_on>
+<sys_id>c3d85bf6db0113005868f6fdbf9619ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1626e4121a70000001</sys_recorded_at>
+<sys_updated_by>james.jose</sys_updated_by>
+<sys_updated_on>2018-03-28 20:18:34</sys_updated_on>
+<table/>
+<target_name>Service Catalog.Create Distribution List1</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>2b58dfb6df0113004d836fd8f096284a</update_guid>
+<update_guid_history>2b58dfb6df0113004d836fd8f096284a:1761391445</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_099793f6db0113005868f6fdbf9619a3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category display_value="Can We Help You?"&gt;e15706fc0a0a0aa7007fc21e1ab70c2f&lt;/category&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Raise this service request to create distribution list that could be withdrawn. &lt;/p&gt;]]&gt;&lt;/description&gt;&lt;entitlement_script/&gt;&lt;group/&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Create Distribution List1&lt;/name&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=099793f6db0113005868f6fdbf9619a3&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;roles/&gt;&lt;sc_catalogs&gt;e0d08b13c3330100c8b837659bba8fb4&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;short_description&gt;Create Distribution List with Cancel option&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;james.jose&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-03-28 20:14:49&lt;/sys_created_on&gt;&lt;sys_id&gt;099793f6db0113005868f6fdbf9619a3&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Distribution List1&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_099793f6db0113005868f6fdbf9619a3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;james.jose&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-03-28 20:16:24&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=099793f6db0113005868f6fdbf9619a3"/&gt;&lt;fx_price action="delete_multiple" query="id=099793f6db0113005868f6fdbf9619a3"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;099793f6db0113005868f6fdbf9619a3&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;james.jose&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-03-28 20:14:49&lt;/sys_created_on&gt;&lt;sys_id&gt;d4089772db0113005868f6fdbf96199f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;james.jose&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-03-28 20:14:49&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;099793f6db0113005868f6fdbf9619a3&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;james.jose&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-03-28 20:14:49&lt;/sys_created_on&gt;&lt;sys_id&gt;1c089772db0113005868f6fdbf9619a0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;james.jose&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-03-28 20:14:49&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2751758</payload_hash>
+<remote_update_set display_value="SB-71-RITM-CreateDistributionList">c7d85bf6db0113005868f6fdbf9619b9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>james.jose</sys_created_by>
+<sys_created_on>2018-03-28 20:18:34</sys_created_on>
+<sys_id>cbd85bf6db0113005868f6fdbf9619b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1626e41222d0000001</sys_recorded_at>
+<sys_updated_by>james.jose</sys_updated_by>
+<sys_updated_on>2018-03-28 20:18:34</sys_updated_on>
+<table/>
+<target_name>Create Distribution List1</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>2f581ff6e80113006a6ea6b9fe63f986</update_guid>
+<update_guid_history>2f581ff6e80113006a6ea6b9fe63f986:-2751758,98085bf61c0113002f6d9c58307230b5:2095701468</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
